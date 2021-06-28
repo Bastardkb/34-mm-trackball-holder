@@ -10,9 +10,7 @@ Assembly made to hold a 35mm trackball.
 
 ![assembly](pics/3.png)
 
-## Material list
-
-Bearing MR63-3x6x2.5mm
+## Material lists
 
 | Item  | Amount | Notes |
 | ------------- | ------------- | ------------- |
