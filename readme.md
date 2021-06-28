@@ -6,7 +6,7 @@ Assembly made to hold a 35mm trackball.
 - Can be integrated into other keyboards
 - Easy to assemble and repair if necessary
 
-![assembly](pics/1.jpg)
+![assembly](pics/1.JPG)
 
 ## Material list
 
@@ -25,7 +25,7 @@ In your keyboard, add a ring of 21mm radius, 2mm height.
 
 Screw in from the top and bottom.
 
-![assembly](pics/2.jpg)
+![assembly](pics/2.JPG)
 
 # License
 
